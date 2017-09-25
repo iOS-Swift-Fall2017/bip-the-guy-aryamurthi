@@ -99,39 +99,6 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
         playSound(soundName: "punchSound", audioPlayer: &audioPlayer)
     }
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         image.layer.borderWidth = 2.0
